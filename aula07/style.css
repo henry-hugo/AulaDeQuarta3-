@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+svg{
+    display: inline;
+    background-color: bisque;
+   
+}
+div {
+    display: inline-block;
+    margin-right: 50px;
+}
+#triangulo-para-cima {
+  width: 0; 
+  height: 0; 
+  border-left: 360px solid transparent;
+  border-right: 360px solid transparent;
+  border-bottom: 360px solid #5386E4;
+}
